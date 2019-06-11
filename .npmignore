@@ -1,7 +1,3 @@
 test
-.editorconfig
-.eslintrc
 .npmignore
 LICENSE.txt
-Makefile
-rollup.config.js

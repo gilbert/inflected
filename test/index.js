@@ -1,7 +1,6 @@
 const assert = require('assert');
-const extend = require('object-assign');
 
-const Inflector = require('../dist/umd/inflected');
+const Inflector = require('../index');
 const inflect = Inflector.inflections();
 
 const TestCases = require('./cases');
